@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Piano"
+  "defaultProject": "Piano",
+  "cli": {
+    "analytics": "51b1d929-e46c-4a4d-9ac3-1e3631ae2b01"
+  }
 }
